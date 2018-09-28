@@ -6,7 +6,7 @@ We conducted experiments with a modified version of the Bruce protocol, which co
 
 Treadmill Experiment Data with Matlab
 ==================================================
-Heewon Chung, Hooseok Lee, and Jinseok Lee (Professor) a member of BAMI LAB.   
+Hooseok Lee, Heewon Chung, and Jinseok Lee (Professor) a member of BAMI LAB.   
 https://sites.google.com/site/bamilab/biosignal-lab   
 Last updated 2018.09.27 (September 27, 2018)
 
