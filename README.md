@@ -4,12 +4,15 @@ For the experiment, we developed a watch-type PPG measuring device. The develope
 
 We conducted experiments with a modified version of the Bruce protocol, which consists of 2 min of walking as a warm-up, 3 min of running, 2 min of walking, 3 min of running, and 2 min of walking to cool down, all on a treadmill. During the running, the speed was set to 6.0 to 7.0 km/h. In the experiment, 24 healthy subjects at Wonkwang University were recruited by trained study personnel. In total, 10 males and 14 females with an average age of 26.9 ± 4.8 years participated. The protocol for data collection and analysis was approved by the Institutional Review Board of Wonkwang University. All participants provided written informed consent.
 
-Treadmill Experiment Data with Matlab
+Citation and copyright 
 ==================================================
 Hooseok Lee, Heewon Chung, and Jinseok Lee (Professor) a member of BAMI LAB.   
 https://sites.google.com/site/bamilab/biosignal-lab   
 Last updated 2018.09.27 (September 27, 2018)
 
+All datasets have copyrights. But you can freely use them for the Signal Processing Cup or your own academic research, as long as you suitably cite the data in your works. Please do not cite this competition website, because it may not be available after this competition. Instead, please cite the following paper, since all training datasets come from it: 
+
+processing
 
 Exercise Experiment Protocol
 ==================================================
